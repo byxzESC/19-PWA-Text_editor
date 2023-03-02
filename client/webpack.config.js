@@ -10,12 +10,12 @@ module.exports = () => {
   return {
     mode: 'development',
     entry: {
-      // include database.js?
       main: './src/js/index.js',
       install: './src/js/install.js',
       editor: './src/js/editor.js',
       header: './src/js/header.js',
-      index: './src/js/index.js'
+      index: './src/js/index.js',
+      database: './src/js/database.js'
     },
 
     output: {
@@ -39,8 +39,8 @@ module.exports = () => {
         inject: true,
         name: 'Text Editor',
         description: 'Simple Text Editor',
-        background_color: '#473C33',
-        theme_color: '#473C33',
+        background_color: '#F5FFC9',
+        theme_color: '#F5FFC9',
         start_url: './',
         publicPath: './',
         icons: [
