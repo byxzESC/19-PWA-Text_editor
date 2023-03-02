@@ -33,9 +33,9 @@ Step 1: create dist folder with following command in your terminal:
 
     npm start 
 
-Step 2: navigate to localhost:3000 by default:
+Step 2: navigate to [localhost:3001](http://localhost:3001) by default:
 
-    localhost:3000
+    localhost:3001
 
 step 3: click on the install button on the page:
 
