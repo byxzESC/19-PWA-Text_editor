@@ -9,8 +9,13 @@
 ## Description
 
     This is another text editor project. 
-    Interesting highlight would be it has PWA in it.
+    Interesting highlight would be it has server worker, uses indexedDB, and also PWA approved.
 
+The App is being deloyed in Heroku [link](https://evening-island-59545.herokuapp.com/)
+
+    PWA approved
+    
+![light house](./server/public/images/light_house.JPG)
 
 ## Table of Contents (Optional)
 
@@ -33,9 +38,9 @@ Step 1: create dist folder with following command in your terminal:
 
     npm start 
 
-Step 2: navigate to [localhost:3001](http://localhost:3001) by default:
+Step 2: navigate to [localhost:3000](http://localhost:3000) by default:
 
-    localhost:3001
+    localhost:3000
 
 step 3: click on the install button on the page:
 
