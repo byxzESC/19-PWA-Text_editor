@@ -39,9 +39,9 @@ module.exports = () => {
         description: 'Simple Text Editor',
         background_color: '#F5FFC9',
         theme_color: '#F5FFC9',
-        start_url: './',
+        start_url: '/',
         id: '/',
-        publicPath: './',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
